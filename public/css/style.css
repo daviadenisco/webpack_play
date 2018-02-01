@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(67, 185, 93);
+  margin: 0 auto;
+
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+ h1{
+   color: white;
+   font-size: 3em;
+ }
